@@ -1,5 +1,8 @@
 # Leetcode Solutions
 
+This is a private repository where I'm storing my preferred solutions to Leetcode problems. Most of the implementation ideas are 
+from the top posts from the dicussion section of the problem.
+
 | Number| Title | Solution | Difficulty |
 |:-----:|:-----:|:--------:|:----------:|
 | 1 | Two Sum | [C++](https://github.com/phanturne/leetcode/blob/main/Solutions/TwoSum.cpp)| Easy |
