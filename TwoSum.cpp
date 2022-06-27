@@ -1,4 +1,5 @@
-#1 Two Sum
+// Leetcode Problem #1
+// https://leetcode.com/problems/two-sum/
 
 class Solution {
 public:
