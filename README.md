@@ -9,3 +9,4 @@ from the top posts from the dicussion section of the problem.
 | 2 | Add Two Numbers | [C++](https://github.com/phanturne/leetcode/blob/main/Solutions/AddTwoNumbers.cpp) | Medium |
 | 3| Longest Substring Without Repeating Characters | [C++](https://github.com/phanturne/leetcode/blob/main/Solutions/LongestSubstringWithoutRepeatingCharacters.cpp) | Medium |
 | 4 | Median of Two Sorted Arrays | [C++](https://github.com/phanturne/leetcode/blob/main/Solutions/MedianOfTwoSortedArrays.cpp) | Hard |
+| 5| Longest Palindromic Substring | [C++](https://github.com/phanturne/leetcode/blob/main/Solutions/LongestPalindromicSubstring.cpp) | Medium |
