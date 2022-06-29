@@ -12,6 +12,7 @@
  * };
  */
 
+// Solution 1: O(max(m, n)) time, O(max(m, n)) space
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
