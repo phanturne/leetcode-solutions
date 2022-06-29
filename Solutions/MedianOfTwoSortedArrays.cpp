@@ -1,5 +1,4 @@
-// Leetcode Problem #4
-// https://leetcode.com/problems/median-of-two-sorted-arrays/
+// Leetcode Problem #4: https://leetcode.com/problems/median-of-two-sorted-arrays/
 // Source: https://www.youtube.com/watch?v=LPFhl65R7ww
 
 // Solution 1: O(log(min(n, m)) time, O(1) space
