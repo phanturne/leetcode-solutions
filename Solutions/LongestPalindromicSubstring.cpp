@@ -1,5 +1,4 @@
-// Leetcode Problem #5
-// https://leetcode.com/problems/longest-palindromic-substring/
+// Leetcode Problem #5: https://leetcode.com/problems/longest-palindromic-substring/
 // Source: https://leetcode.com/problems/longest-palindromic-substring/discuss/151144/Bottom-up-DP-Two-pointers
 
 // Solution 1: Two Pointers | O(n^2) time, O(1) space
