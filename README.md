@@ -4,7 +4,7 @@ This is a repo where I'm storing my versions of solutions to Leetcode problems f
 ideas are from the top posts of the dicussion section of the problem. After studying various implementations from others, I 
 just added comments and stylized the code to the solutions I prefer.
 
-*Note: I do not claim credit for any of the solutions. Some solutions are uncited because I lost the source to the implementations.*
+*Note: I do not claim credit for any of the solutions.*
 
 | Number| Title | Solution | Difficulty |
 |:-----:|:-----:|:--------:|:----------:|
