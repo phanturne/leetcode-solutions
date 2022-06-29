@@ -1,6 +1,7 @@
 // Leetcode Problem #3
 // https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
+// Solution 1: O(n) time, O(1) space
 class Solution
 {
 public:
