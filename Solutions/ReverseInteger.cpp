@@ -1,5 +1,4 @@
-// Leetcode Problem #7
-// https://leetcode.com/problems/reverse-integer/
+// Leetcode Problem #7: https://leetcode.com/problems/reverse-integer/
 // Source: https://leetcode.com/problems/reverse-integer/solution/
 
 // Solution 1: Pop and Push Digits & Check before Overflow | O(log(x)) time and O(1) space
