@@ -1,5 +1,6 @@
 // Leetcode Problem #1
 // https://leetcode.com/problems/two-sum/
+// Source: https://leetcode.com/problems/two-sum/discuss/13/Accepted-C++-O(n)-Solution/263
 
 // Solution 1: Hashmap | O(n) time, O(n) space
 class Solution {
