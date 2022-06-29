@@ -1,3 +1,6 @@
+// Leetcode Problem #8: https://leetcode.com/problems/string-to-integer-atoi/
+ // Source: https://leetcode.com/problems/string-to-integer-atoi/solution/
+
 // Solution 1: Follow the Rules | O(n) time, O(1) space
 class Solution {
 public:
