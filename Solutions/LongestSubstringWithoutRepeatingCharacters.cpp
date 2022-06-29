@@ -1,5 +1,6 @@
 // Leetcode Problem #3
 // https://leetcode.com/problems/longest-substring-without-repeating-characters/
+// Source: https://leetcode.com/problems/longest-substring-without-repeating-characters/discuss/1737/C%2B%2B-code-in-9-lines.
 
 // Solution 1: O(n) time, O(1) space
 class Solution
