@@ -1,6 +1,3 @@
-// Leetcode Problem #8: https://leetcode.com/problems/string-to-integer-atoi/
-// Source: https://leetcode.com/problems/string-to-integer-atoi/solution/
-
 // Solution 1: Follow the Rules | O(n) time, O(1) space
 class Solution {
 public:
@@ -11,11 +8,10 @@ public:
         while (index < n && s[index] == ' ') index++;
 
         // Check if the next char is "-" or "+" and update the sign
-        if (index < n && s[index] == '-') {
-            sign = -1;
+        if (index < n && s[index] == '-' || s[index] == '+') {
+            sign = (s[index] == '-') ? -1 : 1;
             index++;
         }
-        else if (s[index] == '+') index++;
 
         // Read in the next chars until the next non-digit char is reached.
         while (index < n && isdigit(s[index])) {
@@ -35,3 +31,4 @@ public:
     }
 };
 
+// Solution 2: Deterministic Finite Automaton | O(n) time, O(1) space
