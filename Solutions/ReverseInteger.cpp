@@ -1,7 +1,7 @@
 // Leetcode Problem #7
 // https://leetcode.com/problems/reverse-integer/
 
-// Solution 1: Pop and Push Digits & Check before Overflow | O(log(x)) time and O(1) tiem
+// Solution 1: Pop and Push Digits & Check before Overflow | O(log(x)) time and O(1) space
 class Solution {
 public:
     int reverse(int x) {
