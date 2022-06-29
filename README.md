@@ -11,4 +11,4 @@ from the top posts from the dicussion section of the problem.
 | 4 | Median of Two Sorted Arrays | [C++](https://github.com/phanturne/leetcode/blob/main/Solutions/MedianOfTwoSortedArrays.cpp) | Hard |
 | 5 | Longest Palindromic Substring | [C++](https://github.com/phanturne/leetcode/blob/main/Solutions/LongestPalindromicSubstring.cpp) | Medium |
 | 6 | Zigzag Conversion | [C++](https://github.com/phanturne/leetcode/blob/main/Solutions/ZigzagConversion.cpp) | Medium |
-| & | Reverse Integer | [C++](https://github.com/phanturne/leetcode/blob/main/Solutions/ReverseInteger.cpp) | Medium | 
+| 7 | Reverse Integer | [C++](https://github.com/phanturne/leetcode/blob/main/Solutions/ReverseInteger.cpp) | Medium | 
