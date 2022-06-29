@@ -1,6 +1,7 @@
 // Leetcode Problem #1
 // https://leetcode.com/problems/two-sum/
 
+// Solution 1: Hashmap | O(n) time, O(n) space
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
