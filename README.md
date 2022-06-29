@@ -1,7 +1,8 @@
 # Leetcode Solutions
 
-This is a private repository where I'm storing my preferred solutions to Leetcode problems. Most of the implementation ideas are 
-from the top posts from the dicussion section of the problem.
+This is a private repository where I'm storing my refactored versions of my preferred solutions to Leetcode problems. Most of the 
+implementation ideas are from the top posts from the dicussion section of the problem. I do not claim any credit for the implementation 
+ideas. (Not everything is cited b/c I lost the source to the implementations.)
 
 | Number| Title | Solution | Difficulty |
 |:-----:|:-----:|:--------:|:----------:|
