@@ -16,3 +16,4 @@ just added comments and stylized the code to the solutions I prefer.
 | 6 | Zigzag Conversion | [C++](https://github.com/phanturne/leetcode/blob/main/Solutions/ZigzagConversion.cpp) | Medium |
 | 7 | Reverse Integer | [C++](https://github.com/phanturne/leetcode/blob/main/Solutions/ReverseInteger.cpp) | Medium | 
 | 8 | String to Integer (atoi) | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/StringToInteger.cpp) | Medium |
+| 9 | Palindrome Number | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/PalindromeNumber.cpp) | Easy |
