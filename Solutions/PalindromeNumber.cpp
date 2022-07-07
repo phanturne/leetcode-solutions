@@ -1,6 +1,7 @@
 // Leetcode Problem #9: https://leetcode.com/problems/palindrome-number
 // Source: https://leetcode.com/problems/palindrome-number/solution
 
+// Solution 1: Revert Half the Number | O(log(n)) time, O(1) space
 class Solution {
 public:
     bool isPalindrome(int x) {
