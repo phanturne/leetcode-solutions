@@ -1,5 +1,6 @@
 // Leetcode Problem #10: https://leetcode.com/problems/regular-expression-matching/
 // Source: https://leetcode.com/problems/regular-expression-matching/discuss/191830/Java-DP-solution-beats-100-with-explanation
+// Source: https://leetcode.com/problems/regular-expression-matching/discuss/5684/C%2B%2B-O(n)-space-DP
 // Source: https://youtu.be/l3hda49XcDE
 
 // Solution 1: Bottom-Up Dynamic Programming | O(n * m) time, O(n * m) space, n = s.length(), m = p.length()
