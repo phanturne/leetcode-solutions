@@ -18,5 +18,13 @@ just added comments and stylized the code to the solutions I prefer.
 | 8 | String to Integer (atoi) | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/StringToInteger.cpp) | Medium |
 | 9 | Palindrome Number | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/PalindromeNumber.cpp) | Easy |
 | 10 | Regular Expression Matching | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/RegularExpressionMatching.cpp) | Hard |
+| 11 |
+| 12 |
 | 13 | Roman to Integer | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/RomanToInteger.cpp) | Easy |
 | 14 | Longest Common Prefix | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LongestCommonPrefix.cpp) | Easy |
+| 15 |
+| 16 |
+| 17 |
+| 18 |
+| 19 |
+| 20 |
