@@ -27,4 +27,4 @@ just added comments and stylized the code to the solutions I prefer.
 | 17 |
 | 18 |
 | 19 |
-| 20 |
+| 20 | Valid Parenthesis | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ValidParenthesis.cpp) | Easy |
