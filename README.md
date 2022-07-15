@@ -28,3 +28,4 @@ just added comments and stylized the code to the solutions I prefer.
 | 18 |
 | 19 |
 | 20 | Valid Parenthesis | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ValidParenthesis.cpp) | Easy |
+| 21 | Merge Two Sorted Lists | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MergeTwoSortedLists.cpp) | Easy |
