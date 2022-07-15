@@ -1,5 +1,5 @@
 // Leetcode Problem #26:
-// Source:
+// Source: https://leetcode.com/problems/remove-duplicates-from-sorted-array/discuss/11780/5-lines-C%2B%2BJava-nicer-loops
 // Source: https://leetcode.com/problems/remove-duplicates-from-sorted-array/discuss/11782/Share-my-clean-C++-code/210808
 
 // Solution 1: For Loop | O(n) time, O(1) space
