@@ -19,6 +19,20 @@ public:
 
 // Solution 1b: Two Pointers | O(n) time, O(1) space
 // Note: This version is optimized for when elements to remove are rare
+class Solution {
+public:
+    int removeElement(vector<int>& nums, int val) {
+        int n = nums.size();
+        // Tracks index to place the next element that's not equal to val
+        
+        // Loop through the vector, moving the element forwards if it's not equal to val
+        for (int i = 0; i < n; i++) {
+            if (nums[i] == val) nums[i--] = nums[--n];
+        }
+        
+        return n;
+    }
+};
 
 // Solution 2: While loop with .erase() | O(n) time, O(1) space
 // Note: https://stackoverflow.com/questions/4645705/vector-erase-iterator
