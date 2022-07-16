@@ -1,4 +1,4 @@
-// Leetcode Problem #27: 
+// Leetcode Problem #27: https://leetcode.com/problems/remove-element/
 // Source: https://leetcode.com/problems/remove-element/solution/
 // Source: https://leetcode.com/problems/remove-element/discuss/639867/C%2B%2B-1-liner-simple-code
 
