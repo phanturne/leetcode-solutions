@@ -34,3 +34,5 @@ just added comments and stylized the code to the solutions I prefer.
 | 24 |
 | 25 |
 | 26 | Remove Duplicates from Sorted Array | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/RemoveDuplicatesFromSortedArray.cpp) | Easy |
+| 27 | Remove Element | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/RemoveElement.cpp) | Easy |
+| 28 | Implement strStr | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ImplementStrStr.cpp) | Easy |
