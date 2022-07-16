@@ -1,5 +1,5 @@
 // Leetcode #28:
-// Source:
+// Source: https://leetcode.com/problems/implement-strstr/discuss/12956/C%2B%2B-Brute-Force-and-KMP
 
 // Solution 1: Brute Force | O(m * n) time, O(1) space | m = len(haystack), n = needle.length()
 class Solution {
@@ -18,3 +18,4 @@ public:
 };
 
 // Solution 2: KMP Algorithm
+// Notes: http://jakeboxer.com/blog/2009/12/13/the-knuth-morris-pratt-algorithm-in-my-own-words/
