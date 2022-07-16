@@ -22,11 +22,13 @@ public:
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
+        // Tracks the index of the item that was mostly recently swapped forwards
         int n = nums.size();
-        // Tracks index to place the next element that's not equal to val
         
         // Loop through the vector, moving the element forwards if it's not equal to val
         for (int i = 0; i < n; i++) {
+            // n is pre-decremented to get index of element to swap
+            // i is post-decremented b/c we still need to check the item we swapped forwards 
             if (nums[i] == val) nums[i--] = nums[--n];
         }
         
