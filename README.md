@@ -36,3 +36,10 @@ just added comments and stylized the code to the solutions I prefer.
 | 26 | Remove Duplicates from Sorted Array | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/RemoveDuplicatesFromSortedArray.cpp) | Easy |
 | 27 | Remove Element | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/RemoveElement.cpp) | Easy |
 | 28 | Implement strStr | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ImplementStrStr.cpp) | Easy |
+| 29 | 
+| 30 |
+| 31 |
+| 32 |
+| 33 |
+| 34 |
+| 35 | Search Insert Position | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/SearchInsertPosition.cpp) | Easy |
