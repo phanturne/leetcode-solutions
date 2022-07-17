@@ -43,3 +43,26 @@ just added comments and stylized the code to the solutions I prefer.
 | 33 |
 | 34 |
 | 35 | Search Insert Position | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/SearchInsertPosition.cpp) | Easy |
+| 36 |
+| 37 |
+| 38 |
+| 39 |
+| 40 |
+| 41 |
+| 42 |
+| 43 |
+| 44 |
+| 45 |
+| 46 |
+| 47 |
+| 48 |
+| 49 |
+| 50 |
+| 51 |
+| 52 |
+| 53 |
+| 54 | 
+| 55 |
+| 56 |
+| 57 |
+| 58 | Length of Last Word | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LengthOfLastWord.cpp) | Easy |
