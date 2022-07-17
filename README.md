@@ -66,3 +66,11 @@ just added comments and stylized the code to the solutions I prefer.
 | 56 |
 | 57 |
 | 58 | Length of Last Word | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LengthOfLastWord.cpp) | Easy |
+| 59 |
+| 60 |
+| 61 |
+| 62 |
+| 63 |
+| 64 |
+| 65 |
+| 66 | Plus One | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/PlusOne.cpp) | Easy |
