@@ -5,6 +5,7 @@
 class Solution {
 public:
     vector<int> plusOne(vector<int>& digits) {
+        // Loop through the vector backwards, starting from the end
         for (int i = digits.size() - 1; i >= 0; i--) {
             // If the digit < 9, we can simply add 1 and return 
             if (digits[i] < 9) {
