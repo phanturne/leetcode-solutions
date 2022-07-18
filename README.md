@@ -74,3 +74,6 @@ just added comments and stylized the code to the solutions I prefer.
 | 64 |
 | 65 |
 | 66 | Plus One | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/PlusOne.cpp) | Easy |
+| 67 | Add Binary | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/AddBinary.cpp) | Easy |
+| 68 | 
+| 69 |
