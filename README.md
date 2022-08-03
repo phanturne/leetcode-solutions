@@ -93,3 +93,6 @@ just added comments and stylized the code to the solutions I prefer.
 | 83 | Remove Duplicates from Sorted List | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/RemoveDuplicatesFromSortedList.cpp) | Easy |
 | 84 |
 | 85 | 
+| 86 |
+| 87 |
+| 88 | Merge Sorted Array | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MergeSortedArray.cpp) | Easy |
