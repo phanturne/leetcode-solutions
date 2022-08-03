@@ -90,6 +90,6 @@ just added comments and stylized the code to the solutions I prefer.
 | 80 |
 | 81 |
 | 82 |
-| 83 |
+| 83 | Remove Duplicates from Sorted List | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/RemoveDuplicatesFromSortedList.cpp) | Easy |
 | 84 |
-| 85| 
+| 85 | 
