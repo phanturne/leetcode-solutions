@@ -96,3 +96,5 @@ just added comments and stylized the code to the solutions I prefer.
 | 86 |
 | 87 |
 | 88 | Merge Sorted Array | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MergeSortedArray.cpp) | Easy |
+| 94 | Binary Tree Inorder Traversal | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/BinaryTreeInorderTraversal.cpp) | Easy |
+
