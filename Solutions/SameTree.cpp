@@ -20,11 +20,8 @@ public:
         // If both nodes are NULL, return true
         if (!p && !q) return true;
         
-        // If only one of the nodes are NULL, return false
-        if (!p || !q) return false;
-        
-        // If the nodes have different values, return false
-        if (p->val != q->val) return false;
+        // If only one node is NULL or the nodes have different values, return false
+        if (!p || !q || p->val != q->val) return false;
         
         // Else recursively check whether or not the left and right subtrees match
         return isSameTree(p->left, q->left) && isSameTree(p->right, q->right);
