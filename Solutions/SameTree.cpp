@@ -46,7 +46,7 @@ public:
             stackP.pop();
             stackQ.pop();
             
-            // If both nodes exist OR they have the same value:
+            // If both nodes exist AND they have the same value:
             if (p and q and p->val == q->val) {
                 // Push their child nodes to the stack
                 stackP.push(p->left);
