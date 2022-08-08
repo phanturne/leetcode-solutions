@@ -22,3 +22,38 @@ public:
 };
 
 // Solution 2 (Iterative w/ Stack): O(n) time, O(n) space
+class Solution {
+public:
+    bool isSymmetric(TreeNode* root) {
+        // Empty tree is symmetric
+        if (root == NULL) return true;
+        
+        // Stack is used to simulate recursion. Initialized w/ first 2 child nodes
+        stack<TreeNode*> stack;
+        stack.push(root->left);
+        stack.push(root->right);
+        
+        // While the stack is not empty
+        while (!stack.empty()) {
+            // Pop the next two nodes from the stack
+            TreeNode* p = stack.top();
+            stack.pop();
+            TreeNode* q = stack.top();
+            stack.pop();
+            
+            // If both nodes are NULL, continue
+            if (p == NULL && q == NULL) continue;
+            
+            // If only one node is NULL or the nodes have different values, return false
+            if (p == NULL || q == NULL || p->val != q->val) return false;
+            
+            // Else, push p's left child with q's right child and vice versa
+            stack.push(p->left);
+            stack.push(q->right);
+            stack.push(p->right);
+            stack.push(q->left);
+        } 
+        
+        return true; // Return true b/c everything matched
+    }
+};
