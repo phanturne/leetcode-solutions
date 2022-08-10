@@ -100,4 +100,4 @@ just added comments and stylized the code to the solutions I prefer.
 | 100 | Same Tree | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/SameTree.cpp) | Easy |
 | 101 | Symmetric Tree | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/SymmetricTree.cpp) | Easy | 
 | 104 | Maximum Depth of Binary Tree | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MaximumDepthOfBinaryTree.cpp) | Easy |
-| 108 | Convert Sorted Array to Binary Search Tree | [C++])https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ConvertSortedArrayToBinarySearchTree.cpp) | Easy |
+| 108 | Convert Sorted Array to Binary Search Tree | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ConvertSortedArrayToBinarySearchTree.cpp) | Easy |
