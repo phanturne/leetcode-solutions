@@ -105,3 +105,4 @@ just added comments and stylized the code to the solutions I prefer.
 | 111 | Minimum Depth of Binary Tree | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MinimumDepthOfBinaryTree.cpp) | Easy |
 | 112 | Path Sum | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/PathSum.cpp) | Easy |
 | 118 | Pascal's Triangle | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/Pascal'sTriangle.cpp) | Easy |
+| 119 | Pascal's Triangle II | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/Pascal'sTriangleII.cpp) | Easy |
