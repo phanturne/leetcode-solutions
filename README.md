@@ -111,3 +111,4 @@ just added comments and stylized the code to the solutions I prefer.
 | 141 | Linked List Cycle | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LinkedListCycle.cpp) | Easy |
 | 144 | Binary Tree Preorder Traversal | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/BinaryTreePreorderTraversal.cpp) | Easy | 145 | Binary Tree Postorder Traversal | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/BinaryTreePostorderTraversal.cpp) | Easy |
 | 160 | Intersection of Two Linked Lists | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/IntersectionOfTwoLinkedLists.cpp) | Easy |
+| 168 | Excel Sheet Column Title | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ExcelSheetColumnTitle.cpp) | Easy |
