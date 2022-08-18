@@ -1,7 +1,7 @@
 // Leetcode #125: https://leetcode.com/problems/valid-palindrome/
 // Source: https://leetcode.com/problems/valid-palindrome/discuss/40048/Here's-a-clean-C%2B%2B-solution
 
-// Solution 1 | O(n) time, O(n) space
+// Solution 1 | O(n) time, O(1) space
 class Solution {
 public:
     bool isPalindrome(string s) {
