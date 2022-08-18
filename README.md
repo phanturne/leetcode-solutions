@@ -109,3 +109,4 @@ just added comments and stylized the code to the solutions I prefer.
 | 121 | Best Time To Buy And Sell Stock | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/BestTimeToBuyAndSellStock.cpp) | Easy |
 | 125 | Valid Palindrome | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ValidPalindrome.cpp) | Easy |
 | 141 | Linked List Cycle | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LinkedListCycle.cpp) | Easy |
+| 145 | Binary Tree Preorder Traversal | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/BinaryTreePreorderTraversal.cpp) | Easy |
