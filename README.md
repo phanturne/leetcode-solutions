@@ -108,3 +108,4 @@ just added comments and stylized the code to the solutions I prefer.
 | 119 | Pascal's Triangle II | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/Pascal'sTriangleII.cpp) | Easy |
 | 121 | Best Time To Buy And Sell Stock | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/BestTimeToBuyAndSellStock.cpp) | Easy |
 | 125 | Valid Palindrome | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ValidPalindrome.cpp) | Easy |
+| 141 | Linked List Cycle | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LinkedListCycle.cpp) | Easy |
