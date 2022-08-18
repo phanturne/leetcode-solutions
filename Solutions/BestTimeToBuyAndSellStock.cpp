@@ -1,7 +1,7 @@
 // Leetcode #121: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 // Source: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/discuss/39039/Sharing-my-simple-and-clear-C%2B%2B-solution
 
-// Solution 1 | O(n) time, O(n) space
+// Solution 1 | O(n) time, O(1) space
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
