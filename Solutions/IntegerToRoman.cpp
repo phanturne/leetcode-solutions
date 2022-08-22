@@ -1,5 +1,6 @@
-// Leetcode #12:
+// Leetcode #12: https://leetcode.com/problems/integer-to-roman/
 // Source: https://leetcode.com/problems/integer-to-roman/discuss/6274/Simple-Solution
+// Source: https://leetcode.com/problems/integer-to-roman/discuss/6310/My-java-solution-easy-to-understand
 
 // Solution 1 (For Loop) | O(n) time?, O(1) space
 class Solution {
