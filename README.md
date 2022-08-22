@@ -19,7 +19,7 @@ just added comments and stylized the code to the solutions I prefer.
 | 9 | Palindrome Number | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/PalindromeNumber.cpp) | Easy |
 | 10 | Regular Expression Matching | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/RegularExpressionMatching.cpp) | Hard |
 | 11 | Container With Most Water | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ContainerWithMostWater.cpp) | Medium |
-| 12 |
+| 12 | Integer to Roman | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/IntegerToRoman.cpp) | Medium |
 | 13 | Roman to Integer | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/RomanToInteger.cpp) | Easy |
 | 14 | Longest Common Prefix | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LongestCommonPrefix.cpp) | Easy |
 | 15 |
