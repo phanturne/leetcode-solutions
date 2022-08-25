@@ -22,7 +22,7 @@ just added comments and stylized the code to the solutions I prefer.
 | 12 | Integer to Roman | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/IntegerToRoman.cpp) | Medium |
 | 13 | Roman to Integer | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/RomanToInteger.cpp) | Easy |
 | 14 | Longest Common Prefix | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LongestCommonPrefix.cpp) | Easy |
-| 15 |
+| 15 | 3Sum | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/3Sum.cpp) | Medium |
 | 16 |
 | 17 |
 | 18 |
