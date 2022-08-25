@@ -21,17 +21,16 @@ public:
             // If num1 > 0, there's no way to get a sum of 0 since num1 is the smallest
             if (nums[i] > 0) break;
             
-            // Target is 0 - integer1. Set starting indices to search for nums2 and nums3
-            int target = 0 - nums[i];
+            // Set starting indices to search for nums2 and nums3
             int left = i + 1;
             int right = nums.size() - 1;
             
             // While there are valid indices for num1 and num2
             while (left < right) {
-                int sum = nums[left] + nums[right];
+                int sum = nums[i] + nums[left] + nums[right];
                 
-                // If 0 - num1 = num2 + num3, we have found a solution
-                if (sum == target) {
+                // If num1 + num2 + num3 = 0, we have found a solution
+                if (sum == 0) {
                     // Add solution to our result
                     res.push_back({nums[i], nums[left], nums[right]});
                     
@@ -44,7 +43,7 @@ public:
                 }
                 
                 // Else if the sum is too small, increment left pointer
-                else if (sum < target) left++;
+                else if (sum < 0) left++;
                 
                 // Else the sum is too large, so decrement right pointer
                 else right--;
