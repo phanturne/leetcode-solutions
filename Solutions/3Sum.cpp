@@ -37,6 +37,7 @@ public:
                     // Skip duplicates of nums2 and nums3
                     while (left < right && nums[left] == nums[left + 1]) left++;
                     while (left < right && nums[right] == nums[right - 1]) right--;
+                    
                 // Increment left and decrement right indices to check for additional solutions
                 left++;
                 right--;
