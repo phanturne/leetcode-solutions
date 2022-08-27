@@ -38,9 +38,9 @@ public:
                     while (left < right && nums[left] == nums[left + 1]) left++;
                     while (left < right && nums[right] == nums[right - 1]) right--;
                     
-                // Increment left and decrement right indices to check for additional solutions
-                left++;
-                right--;
+                    // Increment left and decrement right indices to check for additional solutions
+                    left++;
+                    right--;
                 }
                 
                 // Else if the sum is too small, increment left pointer
