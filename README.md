@@ -24,7 +24,7 @@ just added comments and stylized the code to the solutions I prefer.
 | 14 | Longest Common Prefix | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LongestCommonPrefix.cpp) | Easy |
 | 15 | 3Sum | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/3Sum.cpp) | Medium |
 | 16 | 3Sum Closest | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/3SumClosest.cpp) | Medium |
-| 17 |
+| 17 | Letter Combinations Of a Phone Number | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LetterCombinationsOfAPhoneNumber.cpp) | Medium |
 | 18 |
 | 19 |
 | 20 | Valid Parenthesis | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ValidParenthesis.cpp) | Easy |
