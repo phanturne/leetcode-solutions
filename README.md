@@ -25,7 +25,7 @@ just added comments and stylized the code to the solutions I prefer.
 | 15 | 3Sum | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/3Sum.cpp) | Medium |
 | 16 | 3Sum Closest | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/3SumClosest.cpp) | Medium |
 | 17 | Letter Combinations Of a Phone Number | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LetterCombinationsOfAPhoneNumber.cpp) | Medium |
-| 18 |
+| 18 | 4Sum | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/4Sum.cpp) | Medium |
 | 19 |
 | 20 | Valid Parenthesis | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ValidParenthesis.cpp) | Easy |
 | 21 | Merge Two Sorted Lists | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MergeTwoSortedLists.cpp) | Easy |
