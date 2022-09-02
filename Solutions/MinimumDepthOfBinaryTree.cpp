@@ -24,7 +24,7 @@ public:
         
         // Recursively return the min depth of the left and right subtrees
         // If one of the child nodes are null, then the shortest path uses the longer path (w/ the existing node). Else it uses the shorter path.
-        // This prevents ending w/ a non-leaf node for the shortest path
+        // This prevents ending w/ a non-leaf node for the shortest path (ex. [1, null, 2, null]). It is fine if both are null b/c max(0, 0) = 0.
         int left = minDepth(root->left);
         int right = minDepth(root->right);
         return 1 + (left == 0 || right == 0 ? max(left, right) : min(left, right));
