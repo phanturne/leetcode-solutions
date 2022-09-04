@@ -115,3 +115,4 @@ just added comments and stylized the code to the solutions I prefer.
 | 169 | Majority Element | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MajorityElement.cpp) | Easy |
 | 171 | Excel Sheet Column Number | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ExcelSheetColumnNumber.cpp) | Easy |
 | 190* | Reverse Bits | [INC](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ReverseBits.cpp) | Easy |
+| 226 | Invert Binary Tree | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/InvertBinaryTree.cpp) | Easy |
