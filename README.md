@@ -117,3 +117,4 @@ just added comments and stylized the code to the solutions I prefer.
 | 190* | Reverse Bits | [INC](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ReverseBits.cpp) | Easy |
 | 226 | Invert Binary Tree | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/InvertBinaryTree.cpp) | Easy |
 | 242 | Valid Anagram | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ValidAnagram.cpp) | Easy |
+| 704 | Binary Search | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/BinarySearch.cpp) | Easy |
