@@ -115,6 +115,7 @@ ideas are from the top posts of the dicussion section of the problem.
 | 171 | Excel Sheet Column Number | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ExcelSheetColumnNumber.cpp) | Easy |
 | 190* | Reverse Bits | [INC](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ReverseBits.cpp) | Easy |
 | 226 | Invert Binary Tree | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/InvertBinaryTree.cpp) | Easy |
+| 235 | Lowest Common Ancestor of a Binary Search Tree | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LowestCommonAncestorOfABinarySearchTree.cpp) | Easy |
 | 242 | Valid Anagram | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ValidAnagram.cpp) | Easy |
 | 704 | Binary Search | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/BinarySearch.cpp) | Easy |
 | 733 | Flood Fill | [C++](https://github.com/phanturne/leetcode-solutions/blob/748c6058532f5b3ff77053971bd537cc16d9d177/Solutions/FloodFill.cpp) | Easy |
