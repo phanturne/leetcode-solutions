@@ -59,7 +59,7 @@ ideas are from the top posts of the dicussion section of the problem.
 | 50 |
 | 51 |
 | 52 |
-| 53 |
+| 53 | Maximum Subarray | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MaximumSubarray.cpp) | Medium |
 | 54 | 
 | 55 |
 | 56 |
