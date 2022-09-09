@@ -107,7 +107,7 @@ ideas are from the top posts of the dicussion section of the problem.
 | 119 | Pascal's Triangle II | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/Pascal'sTriangleII.cpp) | Easy |
 | 121 | Best Time To Buy And Sell Stock | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/BestTimeToBuyAndSellStock.cpp) | Easy |
 | 125 | Valid Palindrome | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ValidPalindrome.cpp) | Easy |
-| 141 | Linked List Cycle | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LinkedListCycle.cpp) | Easy |
+| 141 | Linked List Cycle | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LinkedListCycle.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LinkedListCycle.py)| Easy |
 | 144 | Binary Tree Preorder Traversal | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/BinaryTreePreorderTraversal.cpp) | Easy | 145 | Binary Tree Postorder Traversal | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/BinaryTreePostorderTraversal.cpp) | Easy |
 | 160 | Intersection of Two Linked Lists | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/IntersectionOfTwoLinkedLists.cpp) | Easy |
 | 168 | Excel Sheet Column Title | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ExcelSheetColumnTitle.cpp) | Easy |
