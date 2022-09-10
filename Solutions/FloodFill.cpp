@@ -17,9 +17,9 @@ public:
         image[sr][sc] = color;
         
         // Recursively flood fill any adjacent pixels
-        if (sr - 1 >= 0) helper(image, sr - 1, sc, color, match);
-        if (sr + 1 < image.size()) helper(image, sr + 1, sc, color, match);
-        if (sc - 1 >= 0) helper(image, sr, sc - 1, color, match);
-        if (sc + 1 < image[sr].size()) helper(image, sr, sc + 1, color, match);
+        if (sr - 1 >= 0) helper(image, sr - 1, sc, color, match);                   // image[sr - 1][sc]
+        if (sr + 1 < image.size()) helper(image, sr + 1, sc, color, match);         // image[sr + 1][sc]
+        if (sc - 1 >= 0) helper(image, sr, sc - 1, color, match);                   // image[sr][sc - 1]
+        if (sc + 1 < image[sr].size()) helper(image, sr, sc + 1, color, match);     // image[sr][sc + 1]
     }
 };
