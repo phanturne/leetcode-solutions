@@ -3,7 +3,7 @@
 This is a repo where I'm storing my versions of solutions to Leetcode problems for future reference. Many of the implementation 
 ideas are from the top posts of the dicussion section of the problem. 
 
-*Disclaimer: I do not claim credit for all the solutions. See "Source" at the top of each file.*
+*Disclaimer: I do not claim credit for every single solutions. See "Source" at the top of each file to check credits.*
 
 | Number| Title | Solution | Difficulty |
 |:-----:|:-----:|:--------:|:----------:|
