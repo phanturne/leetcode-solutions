@@ -9,7 +9,6 @@ class Solution:
     def firstBadVersion(self, n: int) -> int:
         # Initialize the search range
         left, right = 1, n
-        firstBad = -1
         
         # While there are still elements to search
         while (left < right):
@@ -17,7 +16,6 @@ class Solution:
             
             if isBadVersion(mid):
                 # If the middle is bad, check the left half to see if there's an earlier bad version
-                firstBad = mid
                 right = mid
             else:
                 # Else look in the right half 
