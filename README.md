@@ -76,7 +76,7 @@ ideas are from the top posts of the dicussion section of the problem.
 | 67 | Add Binary | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/AddBinary.cpp) | Easy |
 | 68 | 
 | 69 | Sqrt(x) | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/Sqrt(x).cpp) | Easy |
-| 70 | Climbing Stairs | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ClimbingStairs.cpp) | Easy |
+| 70 | Climbing Stairs | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ClimbingStairs.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ClimbingStairs.py) | Easy |
 | 71 |
 | 72 |
 | 73 |
