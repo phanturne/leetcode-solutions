@@ -111,7 +111,7 @@ ideas are from the top posts of the dicussion section of the problem.
 | 144 | Binary Tree Preorder Traversal | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/BinaryTreePreorderTraversal.cpp) | Easy | 145 | Binary Tree Postorder Traversal | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/BinaryTreePostorderTraversal.cpp) | Easy |
 | 160 | Intersection of Two Linked Lists | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/IntersectionOfTwoLinkedLists.cpp) | Easy |
 | 168 | Excel Sheet Column Title | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ExcelSheetColumnTitle.cpp) | Easy |
-| 169 | Majority Element | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MajorityElement.cpp) | Easy |
+| 169 | Majority Element | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MajorityElement.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MajorityElement.py) | Easy |
 | 171 | Excel Sheet Column Number | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ExcelSheetColumnNumber.cpp) | Easy |
 | 190* | Reverse Bits | [INC](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ReverseBits.cpp) | Easy |
 | 206 | Reverse Linked List | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ReverseLinkedList.py) | Easy |
