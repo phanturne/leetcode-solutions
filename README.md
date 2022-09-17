@@ -122,5 +122,6 @@ ideas are from the top posts of the dicussion section of the problem.
 | 278 | First Bad Version | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/FirstBadVersion.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/FirstBadVersion.py) | Easy |
 | 383 | Random Note | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/RansomNote.py) | Easy |
 | 409 | Longest Palindrome | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LongestPalindrome.py) | Easy |
+| 543 | Diameter of Binary Tree | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/DiameterOfBinaryTree.py) | Easy |
 | 704 | Binary Search | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/BinarySearch.cpp) | Easy |
 | 733 | Flood Fill | [C++](https://github.com/phanturne/leetcode-solutions/blob/748c6058532f5b3ff77053971bd537cc16d9d177/Solutions/FloodFill.cpp) | Easy |
