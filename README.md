@@ -121,7 +121,7 @@ ideas are from the top posts of the dicussion section of the problem.
 | 235 | Lowest Common Ancestor of a Binary Search Tree | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LowestCommonAncestorOfABinarySearchTree.cpp) | Easy |
 | 242 | Valid Anagram | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ValidAnagram.cpp) | Easy |
 | 278 | First Bad Version | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/FirstBadVersion.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/FirstBadVersion.py) | Easy |
-| 383 | Random Note | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/RansomNote.py) | Easy |
+| 383 | Ransom Note | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/RansomNote.py) | Easy |
 | 409 | Longest Palindrome | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LongestPalindrome.py) | Easy |
 | 543 | Diameter of Binary Tree | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/DiameterOfBinaryTree.py) | Easy |
 | 704 | Binary Search | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/BinarySearch.cpp) | Easy |
