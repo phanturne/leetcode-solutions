@@ -4,7 +4,7 @@
 # Solution 1 (Two Pointers)
 class Solution:
     def backspaceCompare(self, s: str, t: str) -> bool:
-        # Processes '#' and returns the next char of the string
+        # Processes '#' and returns the next index and char of the string
         def nextChar(str: str, index: int):
             backspaceCount = 0
             char = ''
