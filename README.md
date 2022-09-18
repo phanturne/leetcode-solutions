@@ -1,9 +1,9 @@
 # Leetcode Solutions
 
-This is a repo where I'm storing my versions of solutions to Leetcode problems for future reference. Many of the implementation 
-ideas are from the top posts of the dicussion section of the problem. 
+This is a repo where I'm storing my versions of solutions to Leetcode problems for future reference. The goal is to outline multiple straightforward solutions for each question, as well as explaining their time and space complexities. Each solution includes well-written comments to explain the high level idea.
 
-*Disclaimer: I do not claim credit for every single solutions. See "Source" at the top of each file to check credits.*
+*Disclaimer: I did not come up with all the solutions. Many of the implementation ideas are from the top posts of the dicussion section of the 
+problems. See "Source" at the top of each file to check credits.*
 
 | Number| Title | Solution | Difficulty |
 |:-----:|:-----:|:--------:|:----------:|
