@@ -1,7 +1,7 @@
 // Leetcode Problem #14:https://leetcode.com/problems/longest-common-prefix/
 // Source:https://leetcode.com/problems/longest-common-prefix/solution
 
-// Solution 1: Vertical Scanning | O(m *len(LCP)) time, O(1) space where m = number of strings and LCP is the longest common prefix
+// Solution 1: Vertical Scanning | O(S) time, O(1) space  <- S is sum of all chars in all strings
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
