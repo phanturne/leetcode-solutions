@@ -20,7 +20,7 @@ problems or from YouTube tutorials. See "Source" at the top of each file to chec
 | 11 | Container With Most Water | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ContainerWithMostWater.cpp) | Medium |
 | 12 | Integer to Roman | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/IntegerToRoman.cpp) | Medium |
 | 13 | Roman to Integer | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/RomanToInteger.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/RomanToInt.py) | Easy |
-| 14 | Longest Common Prefix | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LongestCommonPrefix.cpp) | Easy |
+| 14 | Longest Common Prefix | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LongestCommonPrefix.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LongestCommonPrefix.py) | Easy |
 | 15 | 3Sum | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/3Sum.cpp) | Medium |
 | 16 | 3Sum Closest | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/3SumClosest.cpp) | Medium |
 | 17 | Letter Combinations Of a Phone Number | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LetterCombinationsOfAPhoneNumber.cpp) | Medium |
