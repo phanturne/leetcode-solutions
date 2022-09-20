@@ -124,6 +124,7 @@ problems or from YouTube tutorials. See "Source" at the top of each file to chec
 | 235 | Lowest Common Ancestor of a Binary Search Tree | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LowestCommonAncestorOfABinarySearchTree.cpp) | Easy |
 | 242 | Valid Anagram | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ValidAnagram.cpp) | Easy |
 | 278 | First Bad Version | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/FirstBadVersion.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/FirstBadVersion.py) | Easy |
+| 283 | Move Zeroes | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MoveZeroes.py) | Easy |
 | 338 | Counting Bits | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/CountingBits.py) | Easy |
 | 383 | Ransom Note | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/RansomNote.py) | Easy |
 | 409 | Longest Palindrome | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LongestPalindrome.py) | Easy |
