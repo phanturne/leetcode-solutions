@@ -114,7 +114,7 @@ problems or from YouTube tutorials. See "Source" at the top of each file to chec
 | 168 | Excel Sheet Column Title | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ExcelSheetColumnTitle.cpp) | Easy |
 | 169 | Majority Element | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MajorityElement.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MajorityElement.py) | Easy |
 | 171 | Excel Sheet Column Number | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ExcelSheetColumnNumber.cpp) | Easy |
-| 190* | Reverse Bits | [INC](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ReverseBits.cpp) | Easy |
+| 190 | Reverse Bits | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ReverseBits.py) | Easy |
 | 206 | Reverse Linked List | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ReverseLinkedList.py) | Easy |
 | 191 | Number of 1 Bits | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/NumberOf1Bits.py) | Easy |
 | 217 | Contains Duplicate | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ContainsDuplicate.py) | Easy |
