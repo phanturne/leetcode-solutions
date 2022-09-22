@@ -15,7 +15,7 @@ problems or from YouTube tutorials. See "Source" at the top of each file to chec
 | 6 | Zigzag Conversion | [C++](https://github.com/phanturne/leetcode/blob/main/Solutions/ZigzagConversion.cpp) | Medium |
 | 7 | Reverse Integer | [C++](https://github.com/phanturne/leetcode/blob/main/Solutions/ReverseInteger.cpp) | Medium | 
 | 8 | String to Integer (atoi) | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/StringToInteger.cpp) | Medium |
-| 9 | Palindrome Number | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/PalindromeNumber.cpp) | Easy |
+| 9 | Palindrome Number | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/PalindromeNumber.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/PalindromeNumber.py) | Easy |
 | 10 | Regular Expression Matching | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/RegularExpressionMatching.cpp) | Hard |
 | 11 | Container With Most Water | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ContainerWithMostWater.cpp) | Medium |
 | 12 | Integer to Roman | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/IntegerToRoman.cpp) | Medium |
