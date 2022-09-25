@@ -59,7 +59,7 @@ problems or from YouTube tutorials. See "Source" at the top of each file to chec
 | 50 |
 | 51 |
 | 52 |
-| 53 | Maximum Subarray | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MaximumSubarray.cpp) | Medium |
+| 53 | Maximum Subarray | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MaximumSubarray.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MaximumSubarray.py) | Medium |
 | 54 | 
 | 55 |
 | 56 |
