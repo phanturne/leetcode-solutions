@@ -1,9 +1,11 @@
 # Leetcode Solutions
 
-Here are my solutions to Leetcode Problems. The goal is to outline multiple straightforward solutions for each question, making it easy for anyone to understand. I also modularized and refactored the solutions to avoid redundant code. Each solution follows "coding best practices" and is well-commented to explain the high level idea. I have also included the time and space complexities above each solution.
+Here are my versions of Leetcode solutions. The goal is to outline multiple straightforward solutions for each question, making it easy for anyone to understand. I also modularized and refactored the solutions to avoid redundant code. Each solution follows "coding best practices" and is well-commented to explain the high level idea. I have also included the time and space complexities above each solution.
 
 *Disclaimer: I did not come up with all the solutions. Many of the implementation ideas are from the top posts of the dicussion section of the 
 problems or from YouTube tutorials. See "Source" at the top of each file to check credits.*
+
+Special thanks to Andrew Gao.
 
 | Number| Title | Solution | Difficulty |
 |:-----:|:-----:|:--------:|:----------:|
