@@ -131,6 +131,7 @@ Special thanks to Andrew Gao.
 | 338 | Counting Bits | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/CountingBits.py) | Easy |
 | 383 | Ransom Note | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/RansomNote.py) | Easy |
 | 409 | Longest Palindrome | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LongestPalindrome.py) | Easy |
+| 532 | 01 Matrix | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/01Matrix.py) | Medium |
 | 543 | Diameter of Binary Tree | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/DiameterOfBinaryTree.py) | Easy |
 | 572 | Subtree of Another Tree | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/SubtreeOfAnotherTree.py) | Easy |
 | 704 | Binary Search | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/BinarySearch.cpp) | Easy |
