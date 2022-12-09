@@ -1,8 +1,8 @@
 # Leetcode Solutions
 
-Here are my versions of Leetcode solutions. The goal is to outline multiple straightforward solutions for each question, making it easy for anyone to understand. I also modularized and refactored the solutions to avoid redundant code. Each solution follows "coding best practices" and is well-commented to explain the high level idea. I have also included the time and space complexities above each solution.
+This repo includes an organized compilation Leetcode solutions. The goal is to provide multiple straightforward solutions for each question, making it accessible and easy for anyone to understand. I also modularized and refactored the solutions to avoid redundant code. Solutions follow "coding best practices" and is generously commented to explain the high level idea. Time and space complexities are included above each solution.
 
-*Disclaimer: I did not come up with all the solutions. Many of the implementation ideas are from the top posts of the dicussion section of the 
+*Disclaimer: Many of the implementation ideas are from the top posts of the dicussion section of the 
 problems or from YouTube tutorials. See "Source" at the top of each file to check credits.*
 
 Special thanks to Andrew Gao.
