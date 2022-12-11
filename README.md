@@ -1,6 +1,7 @@
 # Leetcode Solutions
 
-This repo includes an organized compilation Leetcode solutions. The goal is to provide multiple straightforward solutions for each question, making it accessible and easy for anyone to understand. I also modularized and refactored the solutions to avoid redundant code. Solutions follow "coding best practices" and is generously commented to explain the high level idea. Time and space complexities are included above each solution.
+This repo includes detailed solutions for Leetcode questions in Python and C++. Solutions follow good coding practices and are generously commented. Each solution includes its time and space complexity. The goal is to provide multiple straightforward solutions for each question, making it accessible and easy to understand.
+
 
 *Disclaimer: Many of the implementation ideas are from the top posts of the dicussion section of the 
 problems or from YouTube tutorials. See "Source" at the top of each file to check credits.*
