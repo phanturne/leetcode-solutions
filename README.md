@@ -135,7 +135,7 @@ Contributors: Kevin Ding, Andrew Gao
 | 532 | 01 Matrix | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/01Matrix.py) | Medium |
 | 543 | Diameter of Binary Tree | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/DiameterOfBinaryTree.py) | Easy |
 | 572 | Subtree of Another Tree | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/SubtreeOfAnotherTree.py) | Easy |
-| 704 | Binary Search | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/BinarySearch.cpp) | Easy |
+| 704 | Binary Search | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/BinarySearch.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/BinarySearch.py) | Easy |
 | 733 | Flood Fill | [C++](https://github.com/phanturne/leetcode-solutions/blob/748c6058532f5b3ff77053971bd537cc16d9d177/Solutions/FloodFill.cpp) | Easy | 
 | 844 | Backspace String Compare | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/BackspaceStringCompare.py) | Easy |
 | 876 | Middle of the Linked List | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MiddleOfTheLinkedList.py) | Easy |
