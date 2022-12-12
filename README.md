@@ -101,8 +101,8 @@ Contributors: Kevin Ding, Andrew Gao
 | 94 | Binary Tree Inorder Traversal | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/BinaryTreeInorderTraversal.cpp) | Easy |
 | 100 | Same Tree | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/SameTree.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/SameTree.py) | Easy |
 | 101 | Symmetric Tree | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/SymmetricTree.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/SymmetricTree.py) | Easy | 
-| 104 | Maximum Depth of Binary Tree | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MaximumDepthOfBinaryTree.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MaximumDepthOfBinaryTree.py), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ConvertSortedArrayToBinarySearchTree.py) | Easy |
-| 108 | Convert Sorted Array to Binary Search Tree | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ConvertSortedArrayToBinarySearchTree.cpp) | Easy |
+| 104 | Maximum Depth of Binary Tree | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MaximumDepthOfBinaryTree.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MaximumDepthOfBinaryTree.py) | Easy |
+| 108 | Convert Sorted Array to Binary Search Tree | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ConvertSortedArrayToBinarySearchTree.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ConvertSortedArrayToBinarySearchTree.py) | Easy |
 | 110 | Balanced Binary Tree | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/BalancedBinaryTree.cpp) | Easy |
 | 111 | Minimum Depth of Binary Tree | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MinimumDepthOfBinaryTree.cpp) | Easy |
 | 112 | Path Sum | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/PathSum.cpp) | Easy |
