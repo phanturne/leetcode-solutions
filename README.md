@@ -125,7 +125,7 @@ Contributors: Kevin Ding, Andrew Gao
 | 232 | Implement Queue using Stacks | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ImplementQueueUsingStacks.py) | Easy |
 | 234 | Palindrome Linked List | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/PalindromeLinkedList.py) | Easy |
 | 235 | Lowest Common Ancestor of a Binary Search Tree | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LowestCommonAncestorOfABinarySearchTree.cpp) | Easy |
-| 242 | Valid Anagram | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ValidAnagram.cpp) | Easy |
+| 242 | Valid Anagram | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ValidAnagram.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ValidAnagram.py) | Easy |
 | 268 | Missing Number | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MissingNumber.py) | Easy |
 | 278 | First Bad Version | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/FirstBadVersion.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/FirstBadVersion.py) | Easy |
 | 283 | Move Zeroes | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MoveZeroes.py) | Easy |
