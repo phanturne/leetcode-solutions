@@ -30,7 +30,7 @@ Special thanks to Andrew Gao.
 | 18 | 4Sum | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/4Sum.cpp) | Medium |
 | 19 |
 | 20 | Valid Parenthesis | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ValidParenthesis.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ValidParenthesis.py) | Easy |
-| 21 | Merge Two Sorted Lists | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MergeTwoSortedLists.cpp) | Easy |
+| 21 | Merge Two Sorted Lists | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MergeTwoSortedLists.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MergeTwoSortedLists.py) | Easy |
 | 22 | 
 | 23 |
 | 24 |
