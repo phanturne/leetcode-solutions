@@ -1,40 +1,36 @@
-// Leetcode #232: https://leetcode.com/problems/implement-queue-using-stacks/
+# Leetcode #232: https://leetcode.com/problems/implement-queue-using-stacks/
 
 class MyQueue:
 
     def __init__(self):
-        self.oldStack, self.newStack = [], []
+        self.inStack, self.outStack = [], []
 
     def push(self, x: int) -> None:
-        # Push element to top of new stack
-        self.newStack.append(x)
+        # Push the element onto the input stack
+        self.inStack.append(x)
 
     def pop(self) -> int:
-        # If stack is empty, return -1
-        self.transferStack()
-        if self.empty():
-            return -1
+        # Shift elements and then pop from the output stack
+        self.shiftStack()
+        return self.outStack.pop()
         
-        # Else pop from the old stack and return the popped val
-        return self.oldStack.pop()
-
     def peek(self) -> int:
-        # If stack is empty, return -1
-        self.transferStack()
-        if self.empty():
-            return -1
-        # Else return the value on the top of the old stack
-        return self.oldStack[-1]
+        # Shift elements and return the element at the top of the output stack
+        self.shiftStack()
+        return self.outStack[-1]
 
     def empty(self) -> bool:
-        return (not self.oldStack) and (not self.newStack)
+        # If both stacks are empty, then the queue is empty
+        return (not self.inStack) and (not self.outStack)
 
-    def transferStack(self):
-        # If oldStack is empty, pop each element from the newStack and push to oldStack
-        # This simulates a queue b/c the oldest elements will be on top of oldStack
-        if not self.oldStack:
-            while self.newStack:
-                self.oldStack.append(self.newStack.pop())
+    # Helper function to shift elements from input stack to output stack if output stack is empty
+    def shiftStack(self) -> None:
+        # If output stack is empty, pop all elements from input stack and push to output stack
+        if not self.outStack:
+            while self.inStack:
+                self.outStack.append(self.inStack.pop())
+        
+
 
 # Your MyQueue object will be instantiated and called as such:
 # obj = MyQueue()
