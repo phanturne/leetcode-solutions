@@ -1,9 +1,5 @@
-# Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.left = None
-#         self.right = None
+# Leetcode #235: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/
+# Source: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solutions/64963/3-lines-with-o-1-space-1-liners-alternatives/?orderBy=most_votes
 
 # Definition for a binary tree node.
 # class TreeNode:
