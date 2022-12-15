@@ -6,24 +6,19 @@
 #         self.val = x
 #         self.next = None
 
-# Solution 1 | O(n) time, O(1) space
+# Solution 1 (2 Pointers) | O(n) time, O(1) space
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        # Empty linked list has no cycle
-        if head is None:
-            return False
-        
-        # Initialize a fast and slow pointer
-        fast = slow = head
-        
-        # While the next nodes are valid:
-        while fast and fast.next:
-            # Move fast pointer twice and slow pointer once
+        # Create a fast and slow pointer to track position in the list
+        fast, slow = head, head
+
+        # Move the fast pointer twice and slow pointer once. If they collide, there must be a cycle
+        while (fast and fast.next):
             fast = fast.next.next
             slow = slow.next
-            
-            # If the pointers collided, there must be a cycle
+
             if fast == slow:
                 return True
-            
-        return False # Otherwise there is no cycle
+
+        # Otherwise, there can't be a cycle
+        return False
