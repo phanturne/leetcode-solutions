@@ -3,9 +3,10 @@
 # Solution 1 (Fibonacci) | O(n) time, O(1) space
 class Solution:
     def climbStairs(self, n: int) -> int:
-        # prev1 = climbStairs(n - 2), prev2 = climbStairs(n - 1)
+        # Base case: 1 way for 1 step, 2 ways for 2 steps
         prev1, prev2 = 1, 1 
         
+        # Calculate prev1 and prev2 in the same way Fibonacci is calculated
         for i in range(n):
             prev1, prev2 = prev2, prev1 + prev2
             
@@ -13,7 +14,7 @@ class Solution:
       
 # Solution 2 (DP + Recursion) | O(n) time, O(n) space
 class Solution:
-    # Base case: 0 ways to climb 0 steps, 1 way for 1 step, 2 ways for 2 steps
+    # Base case: 1 way for 1 step, 2 ways for 2 steps
     memo = { 1: 1, 2: 2}
     
     def climbStairs(self, n: int) -> int:
