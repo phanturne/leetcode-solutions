@@ -10,15 +10,14 @@ class Solution:
         # Initialize the search range
         left, right = 1, n
         
-        # While there are still elements to search
+        # While the search range includes more than 1 element, use binary search 
         while (left < right):
             mid = (left + right) // 2
             
+            # If mid is bad, remove right half from search range (b/c they can't be the first bad version). Else, remove left half.
             if isBadVersion(mid):
-                # If the middle is bad, check the left half to see if there's an earlier bad version
                 right = mid
             else:
-                # Else look in the right half 
                 left = mid + 1
         
-        return right
+        return right    # left and right will have same value, so we can return either
