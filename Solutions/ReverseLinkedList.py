@@ -29,8 +29,8 @@ class Solution:
         
     def reverseHelper(self, head, prev = None):
         if head is None:
-            return prev                           # prev stores the last node in the list
+            return prev                           # Return the new head of the linked list
         
         next = head.next                          # Store next node
         head.next = prev                          # Reverse current node
-        return self.reverseHelper(next, head)     # Recursively reverse the next nodes
+        return self.reverseHelper(next, head)     # Recursively reverse the rest of the list
