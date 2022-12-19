@@ -10,5 +10,9 @@
 # Solution 1 (Recursive) | O(n) time, O(n) space
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
-        if not root: return 0
+        # Depth of an empty tree is 0
+        if not root: 
+            return 0
+
+        # Max depth is the greater depth of its subtrees + 1
         return max(self.maxDepth(root.left), self.maxDepth(root.right)) + 1
