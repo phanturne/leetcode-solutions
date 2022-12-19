@@ -9,12 +9,14 @@
 # Solution 1 (Fast & Slow Pointer) | O(n) time, O(1) space
 class Solution:
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        # Traverse the list with a fast and slow pointer
+        # Initialize 2 pointers to the start of the list
         slow, fast = head, head
-        
+
+        # Use a fast and slow pointer to traverse the list. 
         while fast and fast.next:
+            # The fast pointer moves twice while the slow pointer moves once
             fast = fast.next.next
             slow = slow.next
-        
-        # After exiting the loop, the slow pointer will be at the middle node
+
+        # When the fast pointer reaches the end, the slow pointer will be at the middle of the list
         return slow
