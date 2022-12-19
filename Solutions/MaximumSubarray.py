@@ -7,7 +7,7 @@ class Solution:
         # Track the currest sum and largest sum seen so far
         currSum, maxSum = 0, nums[0] 
         
-        # Loop through the array
+        # Use the sliding window approach while traversing the list
         for num in nums:
             # Choose between adding num to currSum or starting fresh w/ only num
             currSum = max(currSum + num, num)
