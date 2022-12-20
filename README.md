@@ -66,7 +66,7 @@ Contributors: Kevin Ding, Andrew Gao
 | 54 | 
 | 55 |
 | 56 |
-| 57 |
+| 57 | Insert Interval | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/InsertInterval.py) | Medium |
 | 58 | Length of Last Word | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LengthOfLastWord.cpp) | Easy |
 | 59 |
 | 60 |
