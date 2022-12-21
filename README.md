@@ -1,12 +1,11 @@
 # Leetcode Solutions
 
-This repo includes detailed solutions for Leetcode questions in Python and C++. Solutions follow good coding practices and are **generously commented**. Each solution includes its time and space complexity. The goal is to provide multiple straightforward solutions for each question, making it accessible and easy to understand.
+This repository features multiple solutions for Leetcode questions in Python and C++, with an emphasis on clear, well-documented code and efficient time and space complexity. Solutions follow best coding practices and include thorough comments for easy comprehension and future reference.
 
+**Note**: In accordance with the style of Leetcode's Official Solutions, the output will not be considered in the calculation of space complexity. The space complexity of previous solutions will be revised to reflect this.
 
-*Disclaimer: Many of the implementation ideas are from the top posts of the dicussion section of the 
-problems or from YouTube tutorials. See "Source" at the top of each file to check credits.*
-
-Contributors: Kevin Ding, Andrew Gao
+**Disclaimer**: Many of the implementation ideas are from the top posts of the dicussion section of the 
+problems or from YouTube tutorials. See "Source" at the top of each file to check credits.
 
 | Number| Title | Solution | Difficulty |
 |:-----:|:-----:|:--------:|:----------:|
