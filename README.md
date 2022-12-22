@@ -11,7 +11,7 @@ problems or from YouTube tutorials. See "Source" at the top of each file to chec
 |:-----:|:-----:|:--------:|:----------:|
 | 1 | Two Sum | [C++](https://github.com/phanturne/leetcode/blob/main/Solutions/TwoSum.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/TwoSum.py)| Easy |
 | 2 | Add Two Numbers | [C++](https://github.com/phanturne/leetcode/blob/main/Solutions/AddTwoNumbers.cpp) | Medium |
-| 3| Longest Substring Without Repeating Characters | [C++](https://github.com/phanturne/leetcode/blob/main/Solutions/LongestSubstringWithoutRepeatingCharacters.cpp) | Medium |
+| 3| Longest Substring Without Repeating Characters | [C++](https://github.com/phanturne/leetcode/blob/main/Solutions/LongestSubstringWithoutRepeatingCharacters.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LongestSubstringWithoutRepeatingCharacters.py) | Medium |
 | 4 | Median of Two Sorted Arrays | [C++](https://github.com/phanturne/leetcode/blob/main/Solutions/MedianOfTwoSortedArrays.cpp) | Hard |
 | 5 | Longest Palindromic Substring | [C++](https://github.com/phanturne/leetcode/blob/main/Solutions/LongestPalindromicSubstring.cpp) | Medium |
 | 6 | Zigzag Conversion | [C++](https://github.com/phanturne/leetcode/blob/main/Solutions/ZigzagConversion.cpp) | Medium |
