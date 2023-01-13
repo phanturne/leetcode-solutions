@@ -10,7 +10,7 @@ problems or from YouTube tutorials. See "Source" at the top of each file to chec
 | Number| Title | Solution | Difficulty |
 |:-----:|:-----:|:--------:|:----------:|
 | 1 | Two Sum | [C++](https://github.com/phanturne/leetcode/blob/main/Solutions/TwoSum.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/TwoSum.py)| Easy |
-| 2 | Add Two Numbers | [C++](https://github.com/phanturne/leetcode/blob/main/Solutions/AddTwoNumbers.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/3Sum.py) | Medium |
+| 2 | Add Two Numbers | [C++](https://github.com/phanturne/leetcode/blob/main/Solutions/AddTwoNumbers.cpp) | Medium |
 | 3| Longest Substring Without Repeating Characters | [C++](https://github.com/phanturne/leetcode/blob/main/Solutions/LongestSubstringWithoutRepeatingCharacters.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LongestSubstringWithoutRepeatingCharacters.py) | Medium |
 | 4 | Median of Two Sorted Arrays | [C++](https://github.com/phanturne/leetcode/blob/main/Solutions/MedianOfTwoSortedArrays.cpp) | Hard |
 | 5 | Longest Palindromic Substring | [C++](https://github.com/phanturne/leetcode/blob/main/Solutions/LongestPalindromicSubstring.cpp) | Medium |
@@ -23,7 +23,7 @@ problems or from YouTube tutorials. See "Source" at the top of each file to chec
 | 12 | Integer to Roman | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/IntegerToRoman.cpp) | Medium |
 | 13 | Roman to Integer | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/RomanToInteger.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/RomanToInt.py) | Easy |
 | 14 | Longest Common Prefix | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LongestCommonPrefix.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LongestCommonPrefix.py) | Easy |
-| 15 | 3Sum | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/3Sum.cpp) | Medium |
+| 15 | 3Sum | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/3Sum.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/3Sum.py) | Medium |
 | 16 | 3Sum Closest | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/3SumClosest.cpp) | Medium |
 | 17 | Letter Combinations Of a Phone Number | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LetterCombinationsOfAPhoneNumber.cpp) | Medium |
 | 18 | 4Sum | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/4Sum.cpp) | Medium |
