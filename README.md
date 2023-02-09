@@ -114,6 +114,7 @@ problems or from YouTube tutorials. See "Source" at the top of each file to chec
 | 136 | Single Number | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/SingleNumber.py) | Easy |
 | 141 | Linked List Cycle | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LinkedListCycle.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/LinkedListCycle.py)| Easy |
 | 144 | Binary Tree Preorder Traversal | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/BinaryTreePreorderTraversal.cpp) | Easy | 145 | Binary Tree Postorder Traversal | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/BinaryTreePostorderTraversal.cpp) | Easy |
+| 150 | Evaluate Reverse Polish Notation | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/EvaluateReversePolishNotation.py) | Medium |
 | 160 | Intersection of Two Linked Lists | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/IntersectionOfTwoLinkedLists.cpp) | Easy |
 | 168 | Excel Sheet Column Title | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ExcelSheetColumnTitle.cpp) | Easy |
 | 169 | Majority Element | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MajorityElement.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/MajorityElement.py) | Easy |
