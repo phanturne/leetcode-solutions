@@ -121,6 +121,7 @@ This repository stands out among the plethora of Leetcode solutions, offering a 
 | 190 | Reverse Bits | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ReverseBits.py) | Easy |
 | 206 | Reverse Linked List | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ReverseLinkedList.py) | Easy |
 | 191 | Number of 1 Bits | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/NumberOf1Bits.py) | Easy |
+| 207 | Course Schedule | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/CourseSchedule.py) | Medium |
 | 217 | Contains Duplicate | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ContainsDuplicate.py) | Easy |
 | 226 | Invert Binary Tree | [C++](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/InvertBinaryTree.cpp), [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/InvertBinaryTree.py) | Easy |
 | 232 | Implement Queue using Stacks | [Python](https://github.com/phanturne/leetcode-solutions/blob/main/Solutions/ImplementQueueUsingStacks.py) | Easy |
