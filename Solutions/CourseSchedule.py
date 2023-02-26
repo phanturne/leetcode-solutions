@@ -14,7 +14,7 @@ class Solution:
 
         # Define a recursive function to perform DFS on the graph
         def dfs(i):
-            # If the ith node is being isited, there is a cycle
+            # If the ith node is being visited, there is a cycle
             if visited[i] == -1:
                 return False
 
@@ -27,6 +27,7 @@ class Solution:
 
             # Visit all the node's neighbors
             for neighbor in graph[i]:
+                # Return false if there is a cycle when trying to visit a neighbor
                 if not dfs(neighbor):
                     return False
 
